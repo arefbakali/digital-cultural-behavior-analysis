@@ -1,0 +1,7 @@
+R >= 4.3.0
+readxl
+ggplot2
+dplyr
+corrplot
+FactoMineR
+factoextra
